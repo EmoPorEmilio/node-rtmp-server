@@ -1,0 +1,16 @@
+{
+  "name": "node-rtmp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@9.14.4",
+  "dependencies": {
+    "node-media-server": "^2.7.0"
+  }
+}
